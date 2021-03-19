@@ -1,5 +1,5 @@
 class Homework{
     public static void main (String args[]){
-        System.out.println("My favorite movie is joker");
+        System.out.println();
 }
 }
