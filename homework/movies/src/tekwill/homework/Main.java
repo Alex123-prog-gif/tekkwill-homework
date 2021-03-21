@@ -1,4 +1,4 @@
-package com.company;
+package tekwill.homework;
 
 public class Main {
 
