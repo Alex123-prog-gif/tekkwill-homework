@@ -1,6 +1,6 @@
 package tekwill.homework.homework2003;
 
-public class lsd {
+public class Exercise2 {
     public static void main(String[] args) {
         long meters = 2500;
         int hour = 5;
