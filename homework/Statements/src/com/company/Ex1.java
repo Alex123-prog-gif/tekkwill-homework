@@ -1,3 +1,5 @@
+package com.company;
+
 import java.util.Scanner;
 
 public class Ex1 {
@@ -44,4 +46,5 @@ public class Ex1 {
                 break;}
 
         }
-    }
+
+}
