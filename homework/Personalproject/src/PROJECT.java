@@ -13,6 +13,11 @@ public class PROJECT {
         System.out.println("Put 7 to your age and i will guess it");
         int userAge = scanner.nextInt();
         System.out.println("Your age is " + (userAge - 7));
+        System.out.println("You know what else i can do?I can count to any number you want!Tell me when to stop");
+        for (int i = 0;i<=5;i++){
+            System.out.println(i);
+        }
+
 
 
 
